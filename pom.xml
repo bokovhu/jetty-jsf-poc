@@ -21,7 +21,7 @@
         <java.encoding>UTF-8</java.encoding>
         <java.main-class>me.bokov.jettyjsfpoc.Main</java.main-class>
 
-        <version.jetty>9.4.21.v20190926</version.jetty>
+        <version.jetty>10.0.10</version.jetty>
         <version.slf4j>1.7.28</version.slf4j>
         <version.lombok>1.18.10</version.lombok>
         <version.jsf-api>2.3</version.jsf-api>
